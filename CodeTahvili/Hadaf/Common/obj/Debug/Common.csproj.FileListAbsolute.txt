@@ -1,0 +1,29 @@
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\Common.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\Common.pdb
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\CKEditor.NET.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\DataAccess.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\FarsiLibrary.Resources.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\FarsiLibrary.Utils.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\FarsiLibrary.Win.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\PersianCalander.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\EntityFramework.dll
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\DataAccess.pdb
+G:\Hadaf\Code\Hadaf\Common\bin\Debug\EntityFramework.xml
+G:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.dll
+G:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.pdb
+G:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Hadaf\Code\Hadaf\Common\bin\Debug\Common.dll
+D:\Hadaf\Code\Hadaf\Common\bin\Debug\Common.pdb
+D:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.dll
+D:\Hadaf\Code\Hadaf\Common\obj\Debug\Common.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\Common\bin\Debug\Common.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\Common\bin\Debug\Common.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتاخاب واحد\Hadaf\Common\obj\Debug\Common.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\Common\obj\Debug\Common.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\Common\bin\Debug\Common.dll
+D:\کپی پیش انتخاب واحد\Hadaf\Common\bin\Debug\Common.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتخاب واحد\Hadaf\Common\obj\Debug\Common.dll
+D:\کپی پیش انتخاب واحد\Hadaf\Common\obj\Debug\Common.pdb

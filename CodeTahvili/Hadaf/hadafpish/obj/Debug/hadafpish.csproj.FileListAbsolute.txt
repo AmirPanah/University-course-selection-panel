@@ -1,0 +1,55 @@
+G:\Hadaf\Code\Hadaf\hadafpish\bin\hadafpish.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\hadafpish.pdb
+G:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.csprojResolveAssemblyReference.cache
+G:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.dll
+G:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.pdb
+G:\Hadaf\Code\Hadaf\hadafpish\bin\Common.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\DataAccess.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\FarsiLibrary.Utils.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\EntityFramework.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\FarsiLibrary.Resources.dll
+G:\Hadaf\Code\Hadaf\hadafpish\bin\Common.pdb
+G:\Hadaf\Code\Hadaf\hadafpish\bin\DataAccess.pdb
+G:\Hadaf\Code\Hadaf\hadafpish\bin\EntityFramework.xml
+D:\Hadaf\Code\Hadaf\hadafpish\bin\hadafpish.dll.config
+D:\Hadaf\Code\Hadaf\hadafpish\bin\hadafpish.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\hadafpish.pdb
+D:\Hadaf\Code\Hadaf\hadafpish\bin\Common.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\DataAccess.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\FarsiLibrary.Utils.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\EntityFramework.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\FarsiLibrary.Resources.dll
+D:\Hadaf\Code\Hadaf\hadafpish\bin\Common.pdb
+D:\Hadaf\Code\Hadaf\hadafpish\bin\DataAccess.pdb
+D:\Hadaf\Code\Hadaf\hadafpish\bin\EntityFramework.xml
+D:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.csprojResolveAssemblyReference.cache
+D:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.dll
+D:\Hadaf\Code\Hadaf\hadafpish\obj\Debug\hadafpish.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\hadafpish.dll.config
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\hadafpish.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\hadafpish.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\Common.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\DataAccess.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\FarsiLibrary.Utils.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\EntityFramework.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\FarsiLibrary.Resources.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\Common.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\DataAccess.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\bin\EntityFramework.xml
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\hadafpish.dll.config
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\hadafpish.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\hadafpish.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\Common.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\DataAccess.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\FarsiLibrary.Utils.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\EntityFramework.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\FarsiLibrary.Resources.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\Common.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\DataAccess.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\bin\EntityFramework.xml
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.dll
+D:\کپی پیش انتخاب واحد\Hadaf\hadafpish\obj\Debug\hadafpish.pdb

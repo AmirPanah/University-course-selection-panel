@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="hadafDBModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="hadafDBEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="COMNPs" EntityType="hadafDBModel.COMNP" />
+    <EntitySet Name="COMPs" EntityType="hadafDBModel.COMP" />
+    <EntitySet Name="Counters" EntityType="hadafDBModel.Counter" />
+    <EntitySet Name="enters" EntityType="hadafDBModel.enter" />
+    <EntitySet Name="KarBs" EntityType="hadafDBModel.KarB" />
+    <EntitySet Name="kardaninarms" EntityType="hadafDBModel.kardaninarm" />
+    <EntitySet Name="KarGs" EntityType="hadafDBModel.KarG" />
+    <EntitySet Name="KarNCs" EntityType="hadafDBModel.KarNC" />
+    <EntitySet Name="KarNEs" EntityType="hadafDBModel.KarNE" />
+    <EntitySet Name="KarTs" EntityType="hadafDBModel.KarT" />
+    <EntitySet Name="KNCs" EntityType="hadafDBModel.KNC" />
+    <EntitySet Name="KNEs" EntityType="hadafDBModel.KNE" />
+    <EntitySet Name="KNGs" EntityType="hadafDBModel.KNG" />
+    <EntitySet Name="KNTs" EntityType="hadafDBModel.KNT" />
+    <EntitySet Name="KPEs" EntityType="hadafDBModel.KPE" />
+    <EntitySet Name="KPGs" EntityType="hadafDBModel.KPG" />
+    <EntitySet Name="ReshteInTs" EntityType="hadafDBModel.ReshteInT" />
+    <EntitySet Name="Students" EntityType="hadafDBModel.Student" />
+  </EntityContainer>
+  <EntityType Name="COMNP">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="COMP">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Counter">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Reshte" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CoursName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CoursUnit" Type="Int32" />
+    <Property Name="stdid" Type="Int64" />
+  </EntityType>
+  <EntityType Name="enter">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="Int64" />
+    <Property Name="Pass" Type="Int64" />
+    <Property Name="Status" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KarB">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="kardaninarm">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KarG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KarNC">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KarNE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KarT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KNC">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KNE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KNG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KNT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KPE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="KPG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="ReshteInT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Unit" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="stdid" Type="Int64" />
+    <Property Name="Reshte" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,241 @@
+﻿* {
+    padding: 0;
+    font-family: Tahoma,Verdana,Arial,Sans-serif;
+    font-size:11px;
+    margin-left: 0;
+    margin-right: 3px;
+    }
+
+html, body {
+    color: #666666;
+    background-color: #f1f1f1;
+    display:block;
+    direction: ltr;
+}
+
+@font-face
+{
+    font-family:'Custom';
+    src: url('../../Fonts/nassim.eot'); /* here you go, IE */
+}
+
+@font-face
+{
+    font-family:'Custom';
+    src: url('../../Fonts/nassim.ttf') format('opentype'); /* everyone else take this */
+}
+
+.font_custom{
+    font-family: Custom;
+    font-size: 28px;
+    font-weight: normal;
+}
+.font_custom28 {
+    font-family: Custom;
+    font-size:62px;
+    font-weight: normal;
+}
+
+.font_custom14{
+    font-family: 'B Nazanin' ;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.font_custom16{
+    font-family: Custom;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.font_custom24{
+    font-family: Custom;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.header {
+    width: 100%;
+    min-width: 250px;
+    height: 50px; /*box-shadow: 0 0 4px 2px #666666;*/
+    background-color: #333333;
+    border-bottom-width: 20px;
+    border-bottom-color: #CC3300;
+    border-bottom-style: solid;
+}
+
+.armDiv {
+    margin-top:10px;
+    margin-right:20px;
+    float:right;
+    color:white;
+}
+
+.accountDiv {
+    float:left;
+    margin-top:10px;
+    margin-left:20px;    
+}
+
+.blueButton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #999966;
+    font-family: Custom;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: medium none #0099FF;
+}
+.pagebutton {
+    border-width: 3px;
+    border-color: #808080 #666666 #666666 #666666;
+    border-style: double;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #C7C7C7;
+    font-family: Custom;
+    font-size: 10px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.blueButton:hover {
+    background-color: #0099FF;
+}
+
+.tableheaderback {
+   
+    background-attachment: scroll;
+     background-color: #CC3300;
+      border-bottom-width: 15px; 
+      border-bottom-color: #666666;
+       border-bottom-style: solid;
+}
+.tableborder {
+    border-style: groove;
+    border-width: 1px;
+}
+
+
+.greenButton {
+    top:0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #009933;
+    font-family: Custom;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
+
+.greenButton:hover {
+    background-color: #97E697;
+    color: #FFFFFF;
+}
+
+.footer {
+    float:right;
+    width: 100%;
+    height: 21px;
+    border-top:solid 1px silver;
+}
+
+.footerText {
+    margin-top:10px;
+    margin-right:20px;
+    float:right;
+    color:gray;
+    font-family: Nazanin, 'B Nazanin', Tahoma;
+    font-size:10pt;
+}
+
+.textbox {
+    padding-right:3px;
+    padding-top:1px;
+    border:solid 1px silver;
+    font-family:Tahoma;
+    font-size:11pt;
+}
+
+#rightnavigation {
+    float: right;
+    background-color: #E8E8E8;
+    width: 200px;
+    direction:rtl;
+}
+.divrightnavigation {
+    /*float: right;
+    background-color: #E8E8E8;
+    width: 200px;*/
+    direction:rtl;
+}
+
+#content {
+  top : 0px;
+  margin : 0px 200px 0 165px;
+  padding : 10px;
+  color : #000000;
+}
+
+.gridHeader {
+    background-color: #186AE4;
+}
+
+.gridHeader a{
+    text-decoration:none;
+    color: #FFFFFF;
+    /*font-family: Custom;
+    font-size: 14px;
+    font-weight: bold;*/
+}
+
+.gridCheckbox input {
+    padding-right:5px;
+    padding-left:5px;
+}
+
+a img {
+    border:none;
+    text-decoration:none;
+}
+
+
+
+div ul li a {
+    border:none;
+    text-decoration:none;
+    vertical-align:middle;
+}
+
+.staticMenuItem {
+    vertical-align:middle; 
+    padding-right:10px;
+}
+
+
+tr td a {
+    text-decoration:none;
+    border:none;
+}
+
+.direction {
+      direction:rtl;
+    margin-top: 0px;
+    height: 50px;
+}
+.align {
+    text-align: right;
+    margin-bottom: 0px;
+}
+.tdheight {
+    width:40px;
+}

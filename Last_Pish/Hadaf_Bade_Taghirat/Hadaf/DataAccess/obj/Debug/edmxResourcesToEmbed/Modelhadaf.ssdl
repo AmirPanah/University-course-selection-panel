@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="hadafDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="hadafDBModelStoreContainer">
+    <EntitySet Name="COMNP" EntityType="hadafDBModel.Store.COMNP" store:Type="Tables" store:Schema="dbo" store:Name="COMNP">
+      <DefiningQuery>SELECT 
+      [COMNP].[id] AS [id], 
+      [COMNP].[Coursename] AS [Coursename], 
+      [COMNP].[Unit] AS [Unit]
+      FROM [dbo].[COMNP] AS [COMNP]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="COMP" EntityType="hadafDBModel.Store.COMP" store:Type="Tables" store:Schema="dbo" store:Name="COMP">
+      <DefiningQuery>SELECT 
+      [COMP].[id] AS [id], 
+      [COMP].[Coursename] AS [Coursename], 
+      [COMP].[Unit] AS [Unit]
+      FROM [dbo].[COMP] AS [COMP]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="IT" EntityType="hadafDBModel.Store.IT" store:Type="Tables" store:Schema="dbo" store:Name="IT">
+      <DefiningQuery>SELECT 
+      [IT].[id] AS [id], 
+      [IT].[Coursename] AS [Coursename], 
+      [IT].[Unit] AS [Unit]
+      FROM [dbo].[IT] AS [IT]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KarB" EntityType="hadafDBModel.Store.KarB" store:Type="Tables" store:Schema="dbo" store:Name="KarB">
+      <DefiningQuery>SELECT 
+      [KarB].[id] AS [id], 
+      [KarB].[Coursename] AS [Coursename], 
+      [KarB].[Unit] AS [Unit]
+      FROM [dbo].[KarB] AS [KarB]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="kardaninarm" EntityType="hadafDBModel.Store.kardaninarm" store:Type="Tables" store:Schema="dbo" store:Name="kardaninarm">
+      <DefiningQuery>SELECT 
+      [kardaninarm].[id] AS [id], 
+      [kardaninarm].[Coursename] AS [Coursename], 
+      [kardaninarm].[Unit] AS [Unit]
+      FROM [dbo].[kardaninarm] AS [kardaninarm]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KarG" EntityType="hadafDBModel.Store.KarG" store:Type="Tables" store:Schema="dbo" store:Name="KarG">
+      <DefiningQuery>SELECT 
+      [KarG].[id] AS [id], 
+      [KarG].[Coursename] AS [Coursename], 
+      [KarG].[Unit] AS [Unit]
+      FROM [dbo].[KarG] AS [KarG]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KarNC" EntityType="hadafDBModel.Store.KarNC" store:Type="Tables" store:Schema="dbo" store:Name="KarNC">
+      <DefiningQuery>SELECT 
+      [KarNC].[id] AS [id], 
+      [KarNC].[Coursename] AS [Coursename], 
+      [KarNC].[Unit] AS [Unit]
+      FROM [dbo].[KarNC] AS [KarNC]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KarNE" EntityType="hadafDBModel.Store.KarNE" store:Type="Tables" store:Schema="dbo" store:Name="KarNE">
+      <DefiningQuery>SELECT 
+      [KarNE].[id] AS [id], 
+      [KarNE].[Coursename] AS [Coursename], 
+      [KarNE].[Unit] AS [Unit]
+      FROM [dbo].[KarNE] AS [KarNE]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KarT" EntityType="hadafDBModel.Store.KarT" store:Type="Tables" store:Schema="dbo" store:Name="KarT">
+      <DefiningQuery>SELECT 
+      [KarT].[id] AS [id], 
+      [KarT].[Coursename] AS [Coursename], 
+      [KarT].[Unit] AS [Unit]
+      FROM [dbo].[KarT] AS [KarT]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KNC" EntityType="hadafDBModel.Store.KNC" store:Type="Tables" store:Schema="dbo" store:Name="KNC">
+      <DefiningQuery>SELECT 
+      [KNC].[id] AS [id], 
+      [KNC].[Coursename] AS [Coursename], 
+      [KNC].[Unit] AS [Unit]
+      FROM [dbo].[KNC] AS [KNC]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KNE" EntityType="hadafDBModel.Store.KNE" store:Type="Tables" store:Schema="dbo" store:Name="KNE">
+      <DefiningQuery>SELECT 
+      [KNE].[id] AS [id], 
+      [KNE].[Coursename] AS [Coursename], 
+      [KNE].[Unit] AS [Unit]
+      FROM [dbo].[KNE] AS [KNE]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KNG" EntityType="hadafDBModel.Store.KNG" store:Type="Tables" store:Schema="dbo" store:Name="KNG">
+      <DefiningQuery>SELECT 
+      [KNG].[id] AS [id], 
+      [KNG].[Coursename] AS [Coursename], 
+      [KNG].[Unit] AS [Unit]
+      FROM [dbo].[KNG] AS [KNG]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KNT" EntityType="hadafDBModel.Store.KNT" store:Type="Tables" store:Schema="dbo" store:Name="KNT">
+      <DefiningQuery>SELECT 
+      [KNT].[id] AS [id], 
+      [KNT].[Coursename] AS [Coursename], 
+      [KNT].[Unit] AS [Unit]
+      FROM [dbo].[KNT] AS [KNT]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KPE" EntityType="hadafDBModel.Store.KPE" store:Type="Tables" store:Schema="dbo" store:Name="KPE">
+      <DefiningQuery>SELECT 
+      [KPE].[id] AS [id], 
+      [KPE].[Coursename] AS [Coursename], 
+      [KPE].[Unit] AS [Unit]
+      FROM [dbo].[KPE] AS [KPE]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="KPG" EntityType="hadafDBModel.Store.KPG" store:Type="Tables" store:Schema="dbo" store:Name="KPG">
+      <DefiningQuery>SELECT 
+      [KPG].[id] AS [id], 
+      [KPG].[Coursename] AS [Coursename], 
+      [KPG].[Unit] AS [Unit]
+      FROM [dbo].[KPG] AS [KPG]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="login2" EntityType="hadafDBModel.Store.login2" store:Type="Tables" store:Schema="dbo" store:Name="login2">
+      <DefiningQuery>SELECT 
+      [login2].[id] AS [id], 
+      [login2].[Username] AS [Username], 
+      [login2].[Pass] AS [Pass]
+      FROM [dbo].[login2] AS [login2]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.COMNP' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="COMNP">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.COMP' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="COMP">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.IT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="IT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KarB' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KarB">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.kardaninarm' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="kardaninarm">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KarG' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KarG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KarNC' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KarNC">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KarNE' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KarNE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KarT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KarT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KNC' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KNC">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KNE' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KNE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KNG' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KNG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KNT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KNT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KPE' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KPE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.KPG' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="KPG">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Coursename" Type="nvarchar" MaxLength="50" />
+    <Property Name="Unit" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'hadafDB.dbo.login2' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="login2">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="bigint" />
+    <Property Name="Pass" Type="bigint" />
+  </EntityType>
+</Schema>

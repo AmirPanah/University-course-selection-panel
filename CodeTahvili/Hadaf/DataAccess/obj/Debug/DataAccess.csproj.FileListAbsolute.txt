@@ -1,0 +1,48 @@
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.dll.config
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.dll
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.pdb
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\EntityFramework.dll
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\EntityFramework.xml
+G:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.dll
+G:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.pdb
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\Common.dll
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Utils.dll
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Resources.dll
+G:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\Common.pdb
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.dll
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\DataAccess.pdb
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\Common.dll
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\EntityFramework.dll
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Utils.dll
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Resources.dll
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\Common.pdb
+D:\Hadaf\Code\Hadaf\DataAccess\bin\Debug\EntityFramework.xml
+D:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.dll
+D:\Hadaf\Code\Hadaf\DataAccess\obj\Debug\DataAccess.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.dll.config
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\Common.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\EntityFramework.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Utils.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Resources.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\Common.pdb
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\bin\Debug\EntityFramework.xml
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.dll
+D:\کپی پیش انتاخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.dll.config
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\DataAccess.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\Common.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\EntityFramework.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Utils.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\FarsiLibrary.Resources.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\Common.pdb
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\bin\Debug\EntityFramework.xml
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.dll
+D:\کپی پیش انتخاب واحد\Hadaf\DataAccess\obj\Debug\DataAccess.pdb

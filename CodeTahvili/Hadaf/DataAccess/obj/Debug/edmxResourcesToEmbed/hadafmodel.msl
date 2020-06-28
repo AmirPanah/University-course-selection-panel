@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="hadafDBModelStoreContainer" CdmEntityContainer="hadafDBEntities">
+    <EntitySetMapping Name="COMNPs">
+      <EntityTypeMapping TypeName="hadafDBModel.COMNP">
+        <MappingFragment StoreEntitySet="COMNP">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COMPs">
+      <EntityTypeMapping TypeName="hadafDBModel.COMP">
+        <MappingFragment StoreEntitySet="COMP">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Counters">
+      <EntityTypeMapping TypeName="hadafDBModel.Counter">
+        <MappingFragment StoreEntitySet="Counter">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Reshte" ColumnName="Reshte" />
+          <ScalarProperty Name="CoursName" ColumnName="CoursName" />
+          <ScalarProperty Name="CoursUnit" ColumnName="CoursUnit" />
+          <ScalarProperty Name="stdid" ColumnName="stdid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="enters">
+      <EntityTypeMapping TypeName="hadafDBModel.enter">
+        <MappingFragment StoreEntitySet="enter">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KarBs">
+      <EntityTypeMapping TypeName="hadafDBModel.KarB">
+        <MappingFragment StoreEntitySet="KarB">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kardaninarms">
+      <EntityTypeMapping TypeName="hadafDBModel.kardaninarm">
+        <MappingFragment StoreEntitySet="kardaninarm">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KarGs">
+      <EntityTypeMapping TypeName="hadafDBModel.KarG">
+        <MappingFragment StoreEntitySet="KarG">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KarNCs">
+      <EntityTypeMapping TypeName="hadafDBModel.KarNC">
+        <MappingFragment StoreEntitySet="KarNC">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KarNEs">
+      <EntityTypeMapping TypeName="hadafDBModel.KarNE">
+        <MappingFragment StoreEntitySet="KarNE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KarTs">
+      <EntityTypeMapping TypeName="hadafDBModel.KarT">
+        <MappingFragment StoreEntitySet="KarT">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KNCs">
+      <EntityTypeMapping TypeName="hadafDBModel.KNC">
+        <MappingFragment StoreEntitySet="KNC">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KNEs">
+      <EntityTypeMapping TypeName="hadafDBModel.KNE">
+        <MappingFragment StoreEntitySet="KNE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KNGs">
+      <EntityTypeMapping TypeName="hadafDBModel.KNG">
+        <MappingFragment StoreEntitySet="KNG">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KNTs">
+      <EntityTypeMapping TypeName="hadafDBModel.KNT">
+        <MappingFragment StoreEntitySet="KNT">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KPEs">
+      <EntityTypeMapping TypeName="hadafDBModel.KPE">
+        <MappingFragment StoreEntitySet="KPE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KPGs">
+      <EntityTypeMapping TypeName="hadafDBModel.KPG">
+        <MappingFragment StoreEntitySet="KPG">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReshteInTs">
+      <EntityTypeMapping TypeName="hadafDBModel.ReshteInT">
+        <MappingFragment StoreEntitySet="ReshteInT">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Coursename" ColumnName="Coursename" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="hadafDBModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="stdid" ColumnName="stdid" />
+          <ScalarProperty Name="Reshte" ColumnName="Reshte" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
